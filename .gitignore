@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# SQLite database
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Build and debug files
+dist/
+*.log
+npm-debug.log*
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
