@@ -23,7 +23,7 @@ COMPONENT_KEYWORDS = [
 
 SYMPTOM_KEYWORDS = [
     "grinding noise", "overheating", "not responding", "stuck",
-    "vibrating", "loose", "misaligned", "drifting", "calibration error",
+    "vibrating", "vibration", "loose", "misaligned", "drifting", "calibration error",
     "low voltage", "power failure", "connection lost", "jerky movement",
     "slow response", "unusual noise", "sparking", "burning smell",
     "leaking", "damaged", "worn out", "broken",
