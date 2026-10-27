@@ -48,6 +48,7 @@ SYMPTOM_SCORES = {
     "calibration error": 24,
     "grinding noise":    22,
     "vibrating":         20,
+    "vibration":         20,
     "jerky movement":    18,
     "stuck":             18,
     "loose":             14,
